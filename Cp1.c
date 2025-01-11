@@ -27,6 +27,7 @@ int main(){
         }
         printf("%d\n",pair);
         printf("This is the feature1 branch\n");
+        printf("This is the main branch\n");
     }
     return 0;
 }
